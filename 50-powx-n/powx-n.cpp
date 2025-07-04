@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     double myPow(double x, int n) {
@@ -10,7 +9,7 @@ public:
             x = 1 / x;
             binForm = -binForm;
   }
-  
+
         while(binForm > 0){
             if(binForm % 2 ==1){
                 ans *= x;
