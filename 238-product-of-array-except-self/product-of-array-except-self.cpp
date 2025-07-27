@@ -22,50 +22,6 @@ class Solution { // optimal Approach
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // class Solution { //Brute Force Approach
 // public:
 //     vector<int> productExceptSelf(vector<int>& nums) {
